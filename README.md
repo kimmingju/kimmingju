@@ -9,7 +9,7 @@ Ewha Womans University, Computer Science · Class of 2027
 <br/>
 
 [![Blog](https://img.shields.io/badge/Tech%20Blog-Tistory-FF5A4A?style=flat-square)](https://blogger8342.tistory.com/)
-[![Email](https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:이메일주소입력)
+[![Email](https://img.shields.io/badge/Email-Contact-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:kmj641620@gmail.com)
 
 </div>
 
