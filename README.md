@@ -4,7 +4,7 @@
 
 ### Backend & Infrastructure Engineer
 
-Ewha Womans University, Computer Science · Class of 2027
+Ewha Womans University, Computer Science & Engineering · Class of 2027
 
 <br/>
 
