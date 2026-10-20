@@ -96,7 +96,7 @@ AWS · Terraform · GitHub Actions · Spring Boot · PostgreSQL · Redis · Prom
 
 ---
 
-### 🔬 Xenon R&D Internship
+### 🔬 Genon Internship
 
 > AI Agent Product Benchmarking & Issue Resolution  
 > `2026.06 – 2026.08` · 8 weeks
